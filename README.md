@@ -27,3 +27,9 @@ Zombie FPS game made with 이지헌, 김승윤 in summer unity lecture
 5. 엔딩 씬: 목표 점수 완수 시 미션 클리어, 달성하지 못할 시 실패, 해당 라운드 기록, 최고 기록, 게임 재시작
 
 ### 실행 화면
+![슬라이드1](https://user-images.githubusercontent.com/93725108/209934981-ea554d54-9814-4208-9d59-6452ccaf26e6.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/93725108/209934970-4301bb31-4e22-44f5-823b-fdab8d54af1d.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/93725108/209934975-80ae89e9-526b-41b5-8ae1-9902ff8341b0.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/93725108/209934976-3fc4a379-1e5e-4ed7-944e-d42076424b38.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/93725108/209934977-704c8aee-7606-4f54-9626-e9bd09bffc9b.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/93725108/209934979-c88743d5-6295-4210-8da8-1bc3da1c3b60.JPG)
