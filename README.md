@@ -24,9 +24,11 @@ Zombie FPS game made with 이지헌, 김승윤 in summer unity lecture
       -수류탄 추가  
 4. 총 발사 후 반동  
 5. 점수: 좀비 킬당 100점, 헤드샷 50점  
-5. 엔딩 씬: 목표 점수 완수 시 미션 클리어, 달성하지 못할 시 실패, 해당 라운드 기록, 최고 기록, 게임 재시작  
+      -헤드샷 시 더 큰 데미지  
+6. 엔딩 씬: 목표 점수 완수 시 미션 클리어, 달성하지 못할 시 실패, 해당 라운드 기록, 최고 기록, 게임 재시작  
 
-### 실행 화면
+### 실행 화면  
+- 시작 배경화면: 게임 맵  
 ![슬라이드1](https://user-images.githubusercontent.com/93725108/209934981-ea554d54-9814-4208-9d59-6452ccaf26e6.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/93725108/209934970-4301bb31-4e22-44f5-823b-fdab8d54af1d.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/93725108/209934975-80ae89e9-526b-41b5-8ae1-9902ff8341b0.JPG)
