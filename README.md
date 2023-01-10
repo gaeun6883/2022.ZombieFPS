@@ -1,4 +1,4 @@
-# 2022.ZombieFPS
+# project_ZombieFPS
 Zombie FPS game made with 이지헌, 김승윤 in summer unity lecture
 
 ### made during 8.22~8.26
